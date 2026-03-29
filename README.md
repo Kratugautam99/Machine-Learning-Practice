@@ -2,9 +2,8 @@
 > A hands-on playground for classic machine learning algorithms—explore data ingestion, model building, evaluation, and deployment in Jupyter notebooks.
 
 <p align="center">
-  <img src="https://github.com/Kratugautam99/Machine-Learning-Practice/blob/main/Inputs/ML.jpg" alt="MLImg" width="400"/>
+  <img src="https://github.com/Kratugautam99/Machine-Learning-Practice/blob/main/Inputs/ML.jpg" alt="MLImg" width="800"/>
 </p>
-
 
 
 ---
