@@ -1,4 +1,4 @@
-# Machine-Learning-Practice 🤖📈
+# 📊 Machine-Learning-Practice 
 > A hands-on playground for classic machine learning algorithms—explore data ingestion, model building, evaluation, and deployment in Jupyter notebooks.
 
 <p align="center">
