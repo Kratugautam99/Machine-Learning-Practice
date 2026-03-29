@@ -10,17 +10,17 @@
 
 ## 📖 Table of Contents
 
-- [ℹ️ About](#ℹ-about)  
+- [ℹ️ About](#-about)  
 - [✨ Features](#-features)  
 - [🗂️ Repository Structure](#-repository-structure)  
 - [🚀 Getting Started](#-getting-started)  
-- [⚙️ Usage](#⚙-usage)  
+- [⚙️ Usage](#-usage)  
 - [🤝 Contributing](#-contributing)  
 - [📜 License](#-license)  
-- [🎯 Topics](#-topics)  
 
 ---
 
+<a name="-about"></a>
 ## ℹ️ About
 
 **Machine-Learning-Practice** is your interactive toolkit to master foundational ML techniques—from simple linear regression to advanced ensemble methods. Each Jupyter notebook walks you through data loading (in `Inputs/`), feature engineering, model training (in `Models/`), performance evaluation, and saving outputs (in `Outputs/`). Ideal for learners, instructors, and practitioners refining their skills.
@@ -48,6 +48,8 @@
   - Persisting models for future inference
 
 ---
+
+<a name="-repository-structure"></a>
 ## 🗂️ Repository Structure
 
 ```text
@@ -96,6 +98,8 @@ Machine-Learning-Practice/
    _Typical libs: pandas, NumPy, scikit-learn, matplotlib, seaborn, joblib._
 
 ---
+
+<a name="-usage"></a>
 ## ⚙️ Usage
 
 - **Explore Notebooks**  
